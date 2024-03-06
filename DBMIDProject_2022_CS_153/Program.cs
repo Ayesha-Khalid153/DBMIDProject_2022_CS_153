@@ -16,7 +16,7 @@ namespace DBMIDProject_2022_CS_153
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Student());
         }
     }
 }

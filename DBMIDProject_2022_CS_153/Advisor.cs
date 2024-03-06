@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DBMIDProject_2022_CS_153
 {
-    public partial class Form1 : Form
+    public partial class Advisor : Form
     {
-        public Form1()
+        public Advisor()
         {
             InitializeComponent();
         }

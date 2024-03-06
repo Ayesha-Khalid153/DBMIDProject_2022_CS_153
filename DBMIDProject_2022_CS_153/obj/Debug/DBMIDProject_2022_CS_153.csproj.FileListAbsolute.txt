@@ -1,0 +1,11 @@
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\bin\Debug\DBMIDProject_2022_CS_153.exe.config
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\bin\Debug\DBMIDProject_2022_CS_153.exe
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\bin\Debug\DBMIDProject_2022_CS_153.pdb
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.csproj.AssemblyReference.cache
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.Form1.resources
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.Properties.Resources.resources
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.csproj.GenerateResource.cache
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.exe
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.pdb
+C:\Users\Feb12\Desktop\4th semester\MID PROJECT\DBMIDProject_2022_CS_153\DBMIDProject_2022_CS_153\obj\Debug\DBMIDProject_2022_CS_153.Student.resources
